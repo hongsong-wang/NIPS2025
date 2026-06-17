@@ -1,4 +1,4 @@
-# NeurIPS 2025 Accepted Paper Abstracts Portal
+# NeurIPS 2025 Paper Abstracts Portal
 To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from 2025 Conference on Neural Information Processing Systems and created a webpage.
 
 This webpage is protected by copyright laws. Without the written permission of the owner of this webpage, no individual or organization shall use the content of this webpage in any form.
